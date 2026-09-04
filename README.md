@@ -8,7 +8,7 @@ Step 1:
 Download this extension: [New Tab Redirect](https://chromewebstore.google.com/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna)
 
 Step 2:
-Use this link on the extension: https://oopsall6s.github.io/NewTabByLoki/index.html
+Use this link on the extension: https://oopsall6s.github.io/NewTabByLoki/
 
 and thats it, hope u like it
 my discord is @oopsall6s if u need help w anything
